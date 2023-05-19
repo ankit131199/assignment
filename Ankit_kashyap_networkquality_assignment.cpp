@@ -1,5 +1,5 @@
-#developed by Ankit kashyap (wavelabs assignment.)
-#Open readme file for the explanation.
+//developed by Ankit kashyap (wavelabs assignment.)
+//Open readme file for the explanation.
 --
     
 #include <iostream>
